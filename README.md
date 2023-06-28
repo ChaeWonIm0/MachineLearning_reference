@@ -5,6 +5,7 @@ since 2023_06_27 for
 Tool : Jupyter notebook (anaconda)
 reference : 1) Hands-on machine learning
 2) https://github.com/rickiepark/handson-ml2/tree/master/datasets/
+<hr>
 
 ### 제롱이 추천하는 머신러닝 체크리스트
 
@@ -14,6 +15,7 @@ reference : 1) Hands-on machine learning
 
 #### "비즈니스의 목적은 무엇인가요"
 <br>
+<hr>
 
 2. 데이터를 수집하고 변환합니다.
 - 데이터 자체는 바꾸지 않습니다.
