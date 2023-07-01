@@ -8,6 +8,9 @@ reference : 1) Hands-on machine learning
 library : sklearn, keras, tensorflow
 <br>
 <hr>
+* 유용한 기능 : 시각화- Tensorboard
+
+![Alt text](image.png)
 
 ##### (230629) 용량 문제로 pkl파일 제외
 ##### (230630) 학습셋이나 검증셋 인덱싱이 필요할 시 .iloc나 .loc 붙여서 이용 필요
