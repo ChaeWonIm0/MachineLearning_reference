@@ -5,15 +5,18 @@ since 2023_06_27 for Study
 Tool : Jupyter notebook (anaconda), colab(for GPU)
 reference : 1) Hands-on machine learning
 2) https://github.com/rickiepark/handson-ml2/tree/master/datasets/
-library : sklearn, keras, tensorflow
+3) library : sklearn, keras, tensorflow
+
 <br>
 <hr>
-* 유용한 기능 : 시각화- Tensorboard
+* 유용한 기능 : 시각화 제공 라이브러리 - Tensorboard
 
 ![Alt text](image.png)
 
 ##### (230629) 용량 문제로 pkl파일 제외
 ##### (230630) 학습셋이나 검증셋 인덱싱이 필요할 시 .iloc나 .loc 붙여서 이용 필요
+##### (230701) 이미지 분류모델 시각화
+
 <hr>
 
 ### 제롱이 추천하는 머신러닝 체크리스트
@@ -63,3 +66,6 @@ library : sklearn, keras, tensorflow
 8. 시스템을 런칭합니다.
 - 유지보수와 모니터링을 고려합니다.
 - 정기적으로 다시 모델을 트레이닝 합니다.
+
+Optimizer 정리 : https://keras.io/ko/optimizers/
+각종 전이 학습 모델 정리 : https://www.tensorflow.org/api_docs/python/tf/keras/applications
