@@ -68,4 +68,5 @@ reference : 1) Hands-on machine learning
 - 정기적으로 다시 모델을 트레이닝 합니다.
 
 Optimizer 정리 : https://keras.io/ko/optimizers/
+
 각종 전이 학습 모델 정리 : https://www.tensorflow.org/api_docs/python/tf/keras/applications
