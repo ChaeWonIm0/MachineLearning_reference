@@ -70,3 +70,10 @@ reference : 1) Hands-on machine learning
 Optimizer 정리 : https://keras.io/ko/optimizers/
 
 각종 전이 학습 모델 정리 : https://www.tensorflow.org/api_docs/python/tf/keras/applications
+
+#### (230704) Github actions
+정확히 무슨 기능인지는 확인이 안되지만 설치함.
+시작 cmd : window powershell 사용
+시작위치 : C:/actions-runner
+![Alt text](image-1.png)
+![Alt text](image-2.png)
