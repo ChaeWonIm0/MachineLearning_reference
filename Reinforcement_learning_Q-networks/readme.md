@@ -1,5 +1,5 @@
 ### Q-Learning 예시 이미지
-<video src="cart_pole_v2-1.mp4" controls title="Title"></video>
+<video src="cart_pole_v2-1.gif" controls title="Title"></video>
 
 #### ▲ DQN 으로 Cart_pole 구현시
 
