@@ -11,6 +11,10 @@
 
 https://github.com/ChaeWonIm0/MachineLearning_reference/assets/114221089/e2b420b0-cbbf-49d1-bf3e-9fe3da0b6e94
 
+#### Double DQN - 300회 / 550 Frame
+
+https://github.com/ChaeWonIm0/MachineLearning_reference/assets/114221089/1ba5b038-883c-44e6-bf1d-cd1fa22bbea2
+
 
 
 "Q-learning is a model-free reinforcement learning algorithm. The goal of Q-learning is to learn a policy, which tells an agent what action to take under what circumstances. It does not require a model (hence the connotation "model-free") of the environment, and it can handle problems with stochastic transitions and rewards, without requiring adaptations."
