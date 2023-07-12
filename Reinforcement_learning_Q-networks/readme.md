@@ -4,8 +4,9 @@
 ![cart_pole_v1](https://github.com/ChaeWonIm0/MachineLearning_reference/assets/114221089/f1c71b5b-3cf6-447e-8782-54fffad3cdf9)
 
 
-#### DQN 으로 Cart_pole 구현시
-![cart_pole_v2-1](https://github.com/ChaeWonIm0/MachineLearning_reference/assets/114221089/8b09887d-b383-45af-a24f-a16f1d1fa080)
+#### QN 으로 Cart_pole 구현시
+
+https://github.com/ChaeWonIm0/MachineLearning_reference/assets/114221089/67068ecb-85d6-4a0e-98dd-8656b1478efd
 
 #### DQN - 550 Frame으로 재현
 
