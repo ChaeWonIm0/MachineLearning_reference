@@ -13,7 +13,7 @@ https://github.com/ChaeWonIm0/MachineLearning_reference/assets/114221089/e2b420b
 
 #### Double DQN - 300회 / 550 Frame
 
-https://github.com/ChaeWonIm0/MachineLearning_reference/assets/114221089/1ba5b038-883c-44e6-bf1d-cd1fa22bbea2
+https://github.com/ChaeWonIm0/MachineLearning_reference/assets/114221089/d0b801bf-c86c-4219-8346-d2b40882d8f1
 
 
 
