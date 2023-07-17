@@ -77,3 +77,13 @@ Optimizer 정리 : https://keras.io/ko/optimizers/
 시작위치 : C:/actions-runner
 ![Alt text](image-1.png)
 ![Alt text](image-2.png)
+
+#### 강화학습 - GYM의 플레이그라운드 > 아타리 게임즈 
+- 출처(Blackjack-v1)
+- 기초적인 policy
+- 초기 10회 반복
+  
+
+https://github.com/ChaeWonIm0/MachineLearning_reference/assets/114221089/03da5f5f-be42-4067-97c4-2777e29ada6f
+
+
